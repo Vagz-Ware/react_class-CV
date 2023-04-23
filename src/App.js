@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import General from
 import General from "../Components/General";
 import Education from "../Components/Education";
 import Experience from "../Components/Experience";
